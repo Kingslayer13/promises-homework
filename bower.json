@@ -1,0 +1,25 @@
+{
+  "name": "promises-homework",
+  "version": "0.0.0",
+  "homepage": "https://github.com/redexp/promises-homework",
+  "authors": [
+    "redexp <sergiikliuchnyk@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "js/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "chai": "~1.9.0",
+    "jquery": "~2.1.0",
+    "mocha": "~1.17.1",
+    "requirejs": "~2.1.10",
+    "sinonjs": "~1.7.3"
+  }
+}
